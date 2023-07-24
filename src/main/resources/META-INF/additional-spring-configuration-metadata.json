@@ -1,0 +1,10 @@
+{"properties": [{
+  "name": "db_url",
+  "type": "java.lang.String",
+  "description": "A description for 'db_url'"
+},{
+  "name": "reseed_code",
+  "type": "java.lang.String",
+  "description": "A description for 'reseed_code' is used to reset the auto index"
+}
+]}
